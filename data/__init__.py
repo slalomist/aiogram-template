@@ -1,0 +1,1 @@
+from . import list_of_bad_wordds
